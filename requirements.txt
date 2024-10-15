@@ -1,0 +1,8 @@
+feedparser
+requests
+bs4
+plotly
+pandas
+sqlalchemy
+wordcloud
+matplotlib
